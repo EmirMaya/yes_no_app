@@ -53,7 +53,7 @@ class AppTheme {
   ThemeData theme() {
     return ThemeData(
       colorSchemeSeed: _colorThemes[selectedColor],
-      brightness: Brightness.dark,
+      // brightness: Brightness.dark,
       );
   }
 }
