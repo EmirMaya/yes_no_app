@@ -24,6 +24,7 @@ class HerMessageBubble extends StatelessWidget {
           ),
         ),
         const SizedBox(height: 10),
+        // ignore: prefer_const_constructors
         _ImageBubble(),
         const SizedBox(height: 20),
       ],
